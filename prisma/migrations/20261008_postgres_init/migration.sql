@@ -1,4 +1,4 @@
-﻿CREATE TABLE "Session" (
+CREATE TABLE "Session" (
     "id" TEXT NOT NULL,
     "shop" TEXT NOT NULL,
     "state" TEXT NOT NULL,
